@@ -1,7 +1,7 @@
 現場と法務の優しい関係。
 =====
 
-こちらは[DevLOVE Advent Calendar 2013 「現場」](http://devlove.doorkeeper.jp/events/7039) 47日目のエントリーです。
+こちらは[DevLOVE Advent Calendar 2013 「現場」](http://devlove.doorkeeper.jp/events/7039) のエントリーです。
 
 自己紹介
 -----
